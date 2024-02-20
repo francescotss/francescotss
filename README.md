@@ -12,7 +12,7 @@
 
 #### Languages and Tools
 
-- Languages
+- Languages and development
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,js,java,mysql,html,css&theme=dark" />
