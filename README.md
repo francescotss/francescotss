@@ -7,7 +7,7 @@
 - 👯 Always ready to collaborate!
 - 🌱 I’m currently exploring **Microsoft Azure**
 - 🔎 I'm particularly interested in **computer vision** and **generative models**
-- 🛫 I ❤️ aeronautics
+- 🛫 I ❤️ aviation
 
 
 #### Languages and Tools
